@@ -4,6 +4,8 @@
 //          *   *        *************** 11281218 840020588 6063 ***************       *       *     
 //           * *         -------------------------------------------------------   * * *       * * *
 //                       ------------------ ELECTRONICA VMMR  -------------------   
+// 26/02/2025
+
 
 ///DEFINE SECCION
 
@@ -61,7 +63,7 @@ void loop() {
 
     
   MENSAJE("HOLA MUNDO      ",1);      // Mensaje a mostrar en la lcd en la linea 1.(usar completamente las 16 posiciones de la lcd)
-  MENSAJE("HELLO WORLD     ",2);      // Mensaje a mostrar en la lcd en la linea 1.(usar completamente las 16 posiciones de la lcd) 
+  MENSAJE("HELLO WORLD     ",2);      // Mensaje a mostrar en la lcd en la linea 2.(usar completamente las 16 posiciones de la lcd) 
   
 
   CARACTER(1,1,15);              // Escritura de un solo caracter en la lcd.
